@@ -1,3 +1,5 @@
+![GitHub forks](https://img.shields.io/github/forks/InvalidLenni/hello-world?label=Forks&logo=github)
+![GitHub watchers](https://img.shields.io/github/watchers/InvalidLenni/hello-world?label=Watchers&logo=github)
 # Hello World codes in  different coding languages
 Here can you find "Hello World!" codes in different programming languages.
 
