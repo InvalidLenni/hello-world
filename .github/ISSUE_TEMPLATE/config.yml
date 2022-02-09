@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: What's the hello world project?
+    url: https://github.com/InvalidLenni/hello-world/wiki#whats-the-hello-world-challenge--project
+    about: Read the wiki for knowing how2contribute and whats that.
+  - name: How2Contribute
+    url: https://github.com/InvalidLenni/hello-world/wiki#how2contribute
+    about: Read the wiki for knowing how2contribute and whats that.

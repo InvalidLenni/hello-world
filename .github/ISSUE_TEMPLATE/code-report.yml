@@ -1,0 +1,27 @@
+name: Report a code that doesn't work
+description: Report a code that isn't working.
+labels: [code report]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before report a code, ensure your report hasn't already been
+        submitted before. If it has, reply to the open issue instead.
+  - type: input
+    attributes:
+      label: Code file URL
+    validations:
+      required: true
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: Description
+      description: Describe the error.
+  - type: textarea
+    validations:
+      required: false
+    attributes:
+      label: Alternatives
+      description: Any alternatives for the code?
+
